@@ -12,7 +12,7 @@ The goal is to create a machine learning model that processes scanned images, de
 ## How to use the Project
 1. **Clone the repository from GitHub**:
    ```sh
-   git clone 
+   git clone https://github.com/wolfseli/Projekt
 
 2. **Create a virtual environment:**:  
 Use the requirements.txt file to set up your environment. 
