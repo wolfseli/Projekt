@@ -23,3 +23,6 @@ All the necessary images are already in the raw and processed folders. If desire
 
 4. **Retrain the model:**: 
 If you want to train the model again, you can use the ‘03_model_training’ notbook.
+
+5. **Training in Google Colab:**:  
+The training of the model can also be done in Google Colab. Simply open the respective notebook in Colab. The images for training can be found in the following public folder on Google Drive: https://drive.google.com/drive/folders/1ONtDlwGJiek5IfhCGLCNv8n6g25XeNuO?usp=drive_link. Adjust the link in the notebook accordingly, and then you can execute it.
