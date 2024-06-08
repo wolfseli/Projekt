@@ -21,7 +21,7 @@ The project was created with Python Version 3.10.11.
 3. **Necessary images:**:  
 All the necessary images are already in the raw and processed folders. If desired, the scraping process and image preparation can be redone using the notebooks "01_data_scraping" and "02_data_preparation".
 
-4. **Retrain the model:**: 
+4. **Retrain the model:**:  
 If you want to train the model again, you can use the ‘03_model_training’ notbook.
 
 5. **Training in Google Colab:**:  
