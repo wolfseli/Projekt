@@ -16,7 +16,7 @@ The goal is to create a machine learning model that processes scanned images, de
 
 2. **Create a virtual environment:**:  
 Use the requirements.txt file to set up your environment. 
-The project was created with Python Version 3.30.11.
+The project was created with Python Version 3.10.11.
 
 3. **Necessary images:**:  
 All the necessary images are already in the raw and processed folders. If desired, the scraping process and image preparation can be redone using the notebooks "01_data_scraping" and "02_data_preparation".
